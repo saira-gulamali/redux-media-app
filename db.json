@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "Tim Kirlin",
+      "id": 8
+    },
+    {
+      "name": "Anne Turner",
+      "id": 11
+    },
+    {
+      "name": "Luke Nikolaus",
+      "id": 13
+    },
+    {
+      "name": "Lindsey Gleichner",
+      "id": 16
+    },
+    {
+      "name": "Cristina Hegmann",
+      "id": 17
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 8
+    },
+    {
+      "userId": 8,
+      "title": "Rustic Rubber Bacon",
+      "id": 11
+    },
+    {
+      "userId": 8,
+      "title": "Bespoke Steel Computer",
+      "id": 12
+    },
+    {
+      "userId": 8,
+      "title": "Unbranded Cotton Shirt",
+      "id": 14
+    },
+    {
+      "userId": 11,
+      "title": "Handmade Fresh Towels",
+      "id": 17
+    },
+    {
+      "userId": 13,
+      "title": "Gorgeous Plastic Chips",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2655",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44648",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87638",
+      "id": 5
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71474",
+      "id": 6
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22889",
+      "id": 7
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=17318",
+      "id": 8
+    }
+  ]
+}
