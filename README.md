@@ -12,6 +12,16 @@ This project is from:
 - Redux Toolkit
 - Redux Toolkit Query
 
+# Getting started with redux-media-app
+
+- You need to run the JSON server (the database) and the client server (the react app) to run the app
+
+- to start the JSON server run:
+  npm run start:server
+
+- to start the client server run:
+  npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
